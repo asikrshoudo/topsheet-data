@@ -4,4 +4,12 @@
     "name": "MAWTS Institute of Technology",
     "departments": [85]
   }
+
+  { 
+    "id": "dpi",
+    "name": "Dhaka polytechnic institute",
+    "departments": [85]
+  }
+
+
 ]
