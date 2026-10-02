@@ -2,11 +2,17 @@
   {
     "id": "mawts",
     "name": "MAWTS Institute of Technology",
+    "code": "500123",
+    "address": "1/C-1/A, Pallabi, Mirpur-12, Dhaka-1216",
+    "website": "www.mawts.org",
     "departments": [85]
   },
   {
     "id": "dpi",
     "name": "Dhaka Polytechnic Institute",
+    "code": "50117",
+    "address": "Tejgaon, Dhaka-1208",
+    "website": "dhaka.polytech.gov.bd",
     "departments": [85]
   }
 ]
