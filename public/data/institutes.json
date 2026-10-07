@@ -5,7 +5,9 @@
     "code": "500123",
     "address": "1/C-1/A, Pallabi, Mirpur-12, Dhaka-1216",
     "website": "www.mawts.org",
-    "departments": [85]
+    "departments": [
+      85
+    ]
   },
   {
     "id": "dpi",
@@ -13,6 +15,508 @@
     "code": "50117",
     "address": "Tejgaon, Dhaka-1208",
     "website": "dhaka.polytech.gov.bd",
-    "departments": [85]
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "dhaka-mohila",
+    "name": "Dhaka Mohila Polytechnic Institute",
+    "code": "50088",
+    "address": "Dhaka",
+    "website": "dmpi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "bigc",
+    "name": "Bangladesh Institute of Glass & Ceramics",
+    "code": "50003",
+    "address": "Dhaka",
+    "website": "bigc.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "graphic-arts-dhaka",
+    "name": "Graphic Arts Institute",
+    "code": "50087",
+    "address": "Dhaka",
+    "website": "gai.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "faridpur",
+    "name": "Faridpur Polytechnic Institute",
+    "code": "46026",
+    "address": "Faridpur",
+    "website": "polytechnic.faridpur.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "tangail",
+    "name": "Tangail Polytechnic Institute",
+    "code": "54049",
+    "address": "Tangail",
+    "website": "tangail.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "narsingdi",
+    "name": "Narsingdi Polytechnic Institute",
+    "code": "52041",
+    "address": "Narsingdi",
+    "website": "npi.narsingdi.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "shariatpur",
+    "name": "Shariatpur Polytechnic Institute",
+    "code": "43014",
+    "address": "Budhirhat, Shariatpur",
+    "website": "shariatpur.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "munshiganj",
+    "name": "Munshiganj Polytechnic Institute",
+    "code": "49021",
+    "address": "Munshiganj",
+    "website": "munshiganj.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "kishoreganj",
+    "name": "Kishoreganj Polytechnic Institute",
+    "code": "59060",
+    "address": "Kishoreganj",
+    "website": "kishoreganj.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "gopalganj",
+    "name": "Gopalganj Polytechnic Institute",
+    "code": "45015",
+    "address": "Gopalganj",
+    "website": "gopalganj.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "mymensingh",
+    "name": "Mymensingh Polytechnic Institute",
+    "code": "57067",
+    "address": "Mymensingh",
+    "website": "mpi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "sherpur",
+    "name": "Sherpur Polytechnic Institute",
+    "code": "56018",
+    "address": "Sherpur",
+    "website": "sherpur.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "chittagong",
+    "name": "Chattogram Polytechnic Institute",
+    "code": "70048",
+    "address": "Chattogram",
+    "website": "chattogram.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "chittagong-mohila",
+    "name": "Chattogram Mohila Polytechnic Institute",
+    "code": "70061",
+    "address": "Chattogram",
+    "website": "cmpi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "bd-sweden",
+    "name": "Bangladesh Sweden Polytechnic Institute",
+    "code": "72007",
+    "address": "Rangamati",
+    "website": "bspi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "coxsbazar",
+    "name": "Cox's Bazar Polytechnic Institute",
+    "code": "74009",
+    "address": "Cox's Bazar",
+    "website": "coxsbazar.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "cumilla",
+    "name": "Cumilla Polytechnic Institute",
+    "code": "65054",
+    "address": "Cumilla",
+    "website": "cumilla.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "cumilla-survey",
+    "name": "Bangladesh Survey Institute, Cumilla",
+    "code": "65056",
+    "address": "Cumilla",
+    "website": "bsi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "feni",
+    "name": "Feni Polytechnic Institute",
+    "code": "69015",
+    "address": "Feni",
+    "website": "feni.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "feni-computer",
+    "name": "Feni Computer Institute",
+    "code": "69019",
+    "address": "Feni",
+    "website": "fci.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "lakshmipur",
+    "name": "Lakshmipur Polytechnic Institute",
+    "code": "67016",
+    "address": "Lakshmipur",
+    "website": "lpi.edu.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "chandpur",
+    "name": "Chandpur Polytechnic Institute",
+    "code": "66035",
+    "address": "Chandpur",
+    "website": "chandpur.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "brahmanbaria",
+    "name": "Brahmanbaria Polytechnic Institute",
+    "code": "64024",
+    "address": "Brahmanbaria",
+    "website": "brahmanbaria.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "khulna",
+    "name": "Khulna Polytechnic Institute",
+    "code": "35048",
+    "address": "Khulna",
+    "website": "khulna.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "khulna-mohila",
+    "name": "Khulna Mohila Polytechnic Institute",
+    "code": "35064",
+    "address": "Khulna",
+    "website": "kmpi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "jessore",
+    "name": "Jessore Polytechnic Institute",
+    "code": "33053",
+    "address": "Jessore",
+    "website": "polytechnic.jessore.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "jessore-survey",
+    "name": "Jessore Survey Institute",
+    "code": "",
+    "address": "Jessore",
+    "website": "",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "kushtia",
+    "name": "Kushtia Polytechnic Institute",
+    "code": "27040",
+    "address": "Kushtia",
+    "website": "kushtia.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "satkhira",
+    "name": "Satkhira Polytechnic Institute",
+    "code": "34048",
+    "address": "Satkhira",
+    "website": "polytechnic.satkhira.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "jhenaidah",
+    "name": "Jhenaidah Polytechnic Institute",
+    "code": "30023",
+    "address": "Jhenaidah",
+    "website": "jhenaidah.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "magura",
+    "name": "Magura Polytechnic Institute",
+    "code": "31036",
+    "address": "Magura",
+    "website": "magura.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "rajshahi",
+    "name": "Rajshahi Polytechnic Institute",
+    "code": "23105",
+    "address": "Rajshahi",
+    "website": "rajshahi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "rajshahi-mohila",
+    "name": "Rajshahi Mohila Polytechnic Institute",
+    "code": "23117",
+    "address": "Rajshahi",
+    "website": "rmpi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "rajshahi-survey",
+    "name": "Rajshahi Survey Institute",
+    "code": "23106",
+    "address": "Rajshahi",
+    "website": "esi.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "bogura",
+    "name": "Bogura Polytechnic Institute",
+    "code": "20099",
+    "address": "Bogura",
+    "website": "bogura.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "pabna",
+    "name": "Pabna Polytechnic Institute",
+    "code": "26062",
+    "address": "Pabna",
+    "website": "pabna.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "naogaon",
+    "name": "Naogaon Polytechnic Institute",
+    "code": "21064",
+    "address": "Naogaon",
+    "website": "naogaonpoly.naogaon.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "sirajganj",
+    "name": "Sirajganj Polytechnic Institute",
+    "code": "25064",
+    "address": "Sirajganj",
+    "website": "sirajganj.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "chapainawabganj",
+    "name": "Chapainawabganj Polytechnic Institute",
+    "code": "22052",
+    "address": "Chapainawabganj",
+    "website": "cnpi.chapainawabganj.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "rangpur",
+    "name": "Rangpur Polytechnic Institute",
+    "code": "16058",
+    "address": "Rangpur",
+    "website": "rangpur.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "dinajpur",
+    "name": "Dinajpur Polytechnic Institute",
+    "code": "13085",
+    "address": "Dinajpur",
+    "website": "dinajpur.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "kurigram",
+    "name": "Kurigram Polytechnic Institute",
+    "code": "17057",
+    "address": "Kurigram",
+    "website": "kurigram.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "thakurgaon",
+    "name": "Thakurgaon Polytechnic Institute",
+    "code": "12053",
+    "address": "Thakurgaon",
+    "website": "thakurgaon.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "barishal",
+    "name": "Barishal Polytechnic Institute",
+    "code": "42045",
+    "address": "Barishal",
+    "website": "barishalpoly.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "patuakhali",
+    "name": "Patuakhali Polytechnic Institute",
+    "code": "39051",
+    "address": "Patuakhali",
+    "website": "patuakhali.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "bhola",
+    "name": "Bhola Polytechnic Institute",
+    "code": "40029",
+    "address": "Bhola",
+    "website": "bhola.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "barguna",
+    "name": "Barguna Polytechnic Institute",
+    "code": "38033",
+    "address": "Barguna",
+    "website": "polytechnic.barguna.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "sylhet",
+    "name": "Sylhet Polytechnic Institute",
+    "code": "61016",
+    "address": "Sylhet",
+    "website": "sylhet.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "habiganj",
+    "name": "Habiganj Polytechnic Institute",
+    "code": "63010",
+    "address": "Habiganj",
+    "website": "habiganj.polytech.gov.bd",
+    "departments": [
+      85
+    ]
+  },
+  {
+    "id": "moulvibazar",
+    "name": "Moulvibazar Polytechnic Institute",
+    "code": "62024",
+    "address": "Moulvibazar",
+    "website": "mpi.moulvibazar.gov.bd",
+    "departments": [
+      85
+    ]
   }
 ]
