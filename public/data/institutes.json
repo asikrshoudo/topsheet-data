@@ -16,7 +16,17 @@
     "address": "Tejgaon, Dhaka-1208",
     "website": "dhaka.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      62,
+      63,
+      64,
+      67,
+      68,
+      69,
+      70,
+      72,
+      85,
+      90
     ]
   },
   {
@@ -26,7 +36,10 @@
     "address": "Dhaka",
     "website": "dmpi.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      68,
+      85,
+      86
     ]
   },
   {
@@ -46,7 +59,9 @@
     "address": "Dhaka",
     "website": "gai.polytech.gov.bd",
     "departments": [
-      85
+      85,
+      95,
+      96
     ]
   },
   {
@@ -56,6 +71,11 @@
     "address": "Faridpur",
     "website": "polytechnic.faridpur.gov.bd",
     "departments": [
+      64,
+      67,
+      70,
+      71,
+      72,
       85
     ]
   },
@@ -66,7 +86,11 @@
     "address": "Tangail",
     "website": "tangail.polytech.gov.bd",
     "departments": [
-      85
+      67,
+      68,
+      85,
+      88,
+      94
     ]
   },
   {
@@ -76,6 +100,10 @@
     "address": "Narsingdi",
     "website": "npi.narsingdi.gov.bd",
     "departments": [
+      64,
+      67,
+      69,
+      72,
       85
     ]
   },
@@ -86,7 +114,9 @@
     "address": "Budhirhat, Shariatpur",
     "website": "shariatpur.polytech.gov.bd",
     "departments": [
-      85
+      68,
+      85,
+      94
     ]
   },
   {
@@ -96,7 +126,13 @@
     "address": "Munshiganj",
     "website": "munshiganj.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      72,
+      85,
+      86
     ]
   },
   {
@@ -106,6 +142,9 @@
     "address": "Kishoreganj",
     "website": "kishoreganj.polytech.gov.bd",
     "departments": [
+      68,
+      69,
+      72,
       85
     ]
   },
@@ -116,6 +155,10 @@
     "address": "Gopalganj",
     "website": "gopalganj.polytech.gov.bd",
     "departments": [
+      67,
+      68,
+      69,
+      72,
       85
     ]
   },
@@ -126,7 +169,13 @@
     "address": "Mymensingh",
     "website": "mpi.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      86
     ]
   },
   {
@@ -136,7 +185,11 @@
     "address": "Sherpur",
     "website": "sherpur.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      85,
+      90
     ]
   },
   {
@@ -146,7 +199,13 @@
     "address": "Chattogram",
     "website": "chattogram.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      90
     ]
   },
   {
@@ -156,6 +215,8 @@
     "address": "Chattogram",
     "website": "cmpi.polytech.gov.bd",
     "departments": [
+      61,
+      68,
       85
     ]
   },
@@ -166,7 +227,12 @@
     "address": "Rangamati",
     "website": "bspi.polytech.gov.bd",
     "departments": [
-      85
+      62,
+      65,
+      67,
+      70,
+      85,
+      88
     ]
   },
   {
@@ -176,6 +242,9 @@
     "address": "Cox's Bazar",
     "website": "coxsbazar.polytech.gov.bd",
     "departments": [
+      64,
+      69,
+      72,
       85
     ]
   },
@@ -186,6 +255,11 @@
     "address": "Cumilla",
     "website": "cumilla.polytech.gov.bd",
     "departments": [
+      64,
+      67,
+      68,
+      70,
+      71,
       85
     ]
   },
@@ -196,7 +270,7 @@
     "address": "Cumilla",
     "website": "bsi.polytech.gov.bd",
     "departments": [
-      85
+      78
     ]
   },
   {
@@ -206,6 +280,11 @@
     "address": "Feni",
     "website": "feni.polytech.gov.bd",
     "departments": [
+      61,
+      64,
+      67,
+      70,
+      71,
       85
     ]
   },
@@ -216,7 +295,8 @@
     "address": "Feni",
     "website": "fci.polytech.gov.bd",
     "departments": [
-      85
+      85,
+      94
     ]
   },
   {
@@ -226,6 +306,10 @@
     "address": "Lakshmipur",
     "website": "lpi.edu.bd",
     "departments": [
+      61,
+      64,
+      67,
+      68,
       85
     ]
   },
@@ -236,7 +320,11 @@
     "address": "Chandpur",
     "website": "chandpur.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      68,
+      72,
+      85,
+      88
     ]
   },
   {
@@ -246,7 +334,10 @@
     "address": "Brahmanbaria",
     "website": "brahmanbaria.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      72,
+      85,
+      86
     ]
   },
   {
@@ -256,7 +347,13 @@
     "address": "Khulna",
     "website": "khulna.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      90
     ]
   },
   {
@@ -266,7 +363,11 @@
     "address": "Khulna",
     "website": "kmpi.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      64,
+      68,
+      85,
+      90
     ]
   },
   {
@@ -276,7 +377,13 @@
     "address": "Jessore",
     "website": "polytechnic.jessore.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      94
     ]
   },
   {
@@ -286,7 +393,7 @@
     "address": "Jessore",
     "website": "",
     "departments": [
-      85
+      78
     ]
   },
   {
@@ -296,6 +403,11 @@
     "address": "Kushtia",
     "website": "kushtia.polytech.gov.bd",
     "departments": [
+      64,
+      67,
+      68,
+      70,
+      71,
       85
     ]
   },
@@ -306,7 +418,11 @@
     "address": "Satkhira",
     "website": "polytechnic.satkhira.gov.bd",
     "departments": [
-      85
+      64,
+      68,
+      72,
+      85,
+      90
     ]
   },
   {
@@ -316,7 +432,11 @@
     "address": "Jhenaidah",
     "website": "jhenaidah.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      85,
+      90
     ]
   },
   {
@@ -326,7 +446,12 @@
     "address": "Magura",
     "website": "magura.polytech.gov.bd",
     "departments": [
-      85
+      67,
+      68,
+      69,
+      72,
+      85,
+      92
     ]
   },
   {
@@ -336,7 +461,14 @@
     "address": "Rajshahi",
     "website": "rajshahi.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      86,
+      92
     ]
   },
   {
@@ -346,7 +478,11 @@
     "address": "Rajshahi",
     "website": "rmpi.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      68,
+      69,
+      85,
+      86
     ]
   },
   {
@@ -356,7 +492,7 @@
     "address": "Rajshahi",
     "website": "esi.polytech.gov.bd",
     "departments": [
-      85
+      78
     ]
   },
   {
@@ -366,7 +502,14 @@
     "address": "Bogura",
     "website": "bogura.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      72,
+      85,
+      93
     ]
   },
   {
@@ -376,7 +519,15 @@
     "address": "Pabna",
     "website": "pabna.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      72,
+      85,
+      88,
+      90
     ]
   },
   {
@@ -386,7 +537,11 @@
     "address": "Naogaon",
     "website": "naogaonpoly.naogaon.gov.bd",
     "departments": [
-      85
+      61,
+      64,
+      69,
+      85,
+      90
     ]
   },
   {
@@ -396,6 +551,10 @@
     "address": "Sirajganj",
     "website": "sirajganj.polytech.gov.bd",
     "departments": [
+      64,
+      67,
+      68,
+      72,
       85
     ]
   },
@@ -406,7 +565,12 @@
     "address": "Chapainawabganj",
     "website": "cnpi.chapainawabganj.gov.bd",
     "departments": [
-      85
+      67,
+      68,
+      69,
+      72,
+      85,
+      92
     ]
   },
   {
@@ -416,7 +580,13 @@
     "address": "Rangpur",
     "website": "rangpur.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      86
     ]
   },
   {
@@ -426,6 +596,11 @@
     "address": "Dinajpur",
     "website": "dinajpur.polytech.gov.bd",
     "departments": [
+      61,
+      64,
+      67,
+      70,
+      71,
       85
     ]
   },
@@ -436,7 +611,13 @@
     "address": "Kurigram",
     "website": "kurigram.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      64,
+      67,
+      68,
+      70,
+      85,
+      88
     ]
   },
   {
@@ -446,7 +627,11 @@
     "address": "Thakurgaon",
     "website": "thakurgaon.polytech.gov.bd",
     "departments": [
-      85
+      61,
+      69,
+      72,
+      85,
+      92
     ]
   },
   {
@@ -456,7 +641,13 @@
     "address": "Barishal",
     "website": "barishalpoly.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      86
     ]
   },
   {
@@ -466,6 +657,10 @@
     "address": "Patuakhali",
     "website": "patuakhali.polytech.gov.bd",
     "departments": [
+      64,
+      67,
+      68,
+      72,
       85
     ]
   },
@@ -476,6 +671,9 @@
     "address": "Bhola",
     "website": "bhola.polytech.gov.bd",
     "departments": [
+      64,
+      68,
+      72,
       85
     ]
   },
@@ -486,7 +684,11 @@
     "address": "Barguna",
     "website": "polytechnic.barguna.gov.bd",
     "departments": [
-      85
+      64,
+      68,
+      72,
+      85,
+      90
     ]
   },
   {
@@ -496,7 +698,13 @@
     "address": "Sylhet",
     "website": "sylhet.polytech.gov.bd",
     "departments": [
-      85
+      64,
+      67,
+      68,
+      70,
+      71,
+      85,
+      86
     ]
   },
   {
@@ -506,6 +714,9 @@
     "address": "Habiganj",
     "website": "habiganj.polytech.gov.bd",
     "departments": [
+      61,
+      64,
+      68,
       85
     ]
   },
@@ -516,6 +727,9 @@
     "address": "Moulvibazar",
     "website": "mpi.moulvibazar.gov.bd",
     "departments": [
+      68,
+      69,
+      72,
       85
     ]
   }
